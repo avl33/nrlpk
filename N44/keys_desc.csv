@@ -1,0 +1,26 @@
+|values
+keyscount|57.0
+Ukeyscount|36.0
+Skeyscount|12.0
+USkeyscount|6.0
+Nkeyscount|8.0
+UNkeyscount|2.0
+partlangkeys|['CLIV', 'NOUN', 'NUSR', 'ADJF', 'NAME', 'ADDR', 'TITL', 'UPPR']
+typeskeys|['CLIV', 'SPEC', 'NUSR', None, 'NAME', 'TITL', 'ADDR', 'UPPR']
+inwhatsents|[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+minkeyssent|1.0
+maxkeyssent|11.0
+meankeyssent|4.75
+minrepeatkey|1.0
+maxrepeatkeys|5.0
+meanrepeatkey|2.46
+allcolumnskey|['lemm', 'word', 'tword', 'partlang', 'pos', 'idsent', 'sentpos', 'tkey', 'count_word_sent', 'count_word_text', 'count_key_text']
+keys-%|19.93
+Ukeys-%|12.59
+KUkeys-%|63.16
+Skeys-%|4.2
+Skeysofkeys-%|21.05
+USkeysofUkeys-%|16.67
+Nkeys-%|2.8
+Nkeysofkeys-%|14.04
+UNkeysofUkeys-%|5.56

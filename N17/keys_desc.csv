@@ -1,0 +1,21 @@
+|values
+keyscount|36.0
+Ukeyscount|20.0
+Skeyscount|3.0
+USkeyscount|3.0
+partlangkeys|['UPPR', 'NUSR', 'ADJF', 'NOUN', 'NAME']
+typeskeys|['UPPR', 'NUSR', None, 'TITL', 'SPEC', 'NAME']
+inwhatsents|[1, 2, 3, 4, 5, 6, 7, 8]
+minkeyssent|2.0
+maxkeyssent|10.0
+meankeyssent|4.5
+minrepeatkey|1.0
+maxrepeatkeys|5.0
+meanrepeatkey|2.89
+allcolumnskey|['lemm', 'word', 'tword', 'partlang', 'pos', 'idsent', 'sentpos', 'tkey', 'count_word_sent', 'count_word_text', 'count_key_text']
+keys-%|29.75
+Ukeys-%|16.53
+KUkeys-%|55.56
+Skeys-%|2.48
+Skeysofkeys-%|8.33
+USkeysofUkeys-%|15.0

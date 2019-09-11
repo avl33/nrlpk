@@ -1,0 +1,16 @@
+|values
+allwordscount|982.0
+relwordscount|773.0
+badwordscount|203.0
+garbagewordscount|6.0
+typeswords|['NOUN', 'TITL', 'NAME', 'ABVR', 'NUMR', 'NUSR', 'VERB', 'ADJF', 'UNKN', 'PRTS', 'PRTF', 'CLIV', 'FLNM', 'NUMB', 'PRCL', 'INFN', 'WIQM', 'ADJS', 'UPPR', 'COMP']
+sentscount|40.0
+minwordssent|5.0
+maxwordssent|64.0
+meanwordssent|24.52
+minrepeatword|1.0
+maxrepeatword|14.0
+meanrepeatword|3.83
+allcolumnsstat|['lemm', 'word', 'tword', 'partlang', 'pos', 'idsent', 'sentpos', 'tkey', 'count_word_text', 'count_word_sent']
+garbage-%|0.61
+bad-%|20.67
