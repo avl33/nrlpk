@@ -15,12 +15,12 @@ minrepeatkey|1.0
 maxrepeatkeys|35.0
 meanrepeatkey|9.89
 allcolumnskey|['lemm', 'word', 'tword', 'partlang', 'pos', 'idsent', 'sentpos', 'tkey', 'count_word_sent', 'count_word_text', 'count_key_text']
-keys-%|27.63
-Ukeys-%|8.46
+keys-%|27.76
+Ukeys-%|8.5
 KUkeys-%|30.62
-Skeys-%|7.02
+Skeys-%|7.05
 Skeysofkeys-%|25.41
 USkeysofUkeys-%|24.47
-Nkeys-%|12.42
+Nkeys-%|12.48
 Nkeysofkeys-%|44.95
 UNkeysofUkeys-%|25.53
