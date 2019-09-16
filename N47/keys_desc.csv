@@ -1,26 +1,26 @@
 |values
-keyscount|307.0
-Ukeyscount|94.0
-Skeyscount|78.0
-USkeyscount|23.0
-Nkeyscount|138.0
+keyscount|295.0
+Ukeyscount|89.0
+Skeyscount|75.0
+USkeyscount|22.0
+Nkeyscount|135.0
 UNkeyscount|24.0
-partlangkeys|['DSNU', 'NOUN', 'ABVR', 'WIQM', 'CLIV', 'NAME', 'ADJF', 'NUSR', 'FLNM', 'UPPR', 'TITL']
-typeskeys|['DSNU', 'UPPR', 'SPEC', 'CLIV', None, 'WIQM', 'TITL', 'NAME', 'ABVR', 'NUSR', 'FLNM']
-inwhatsents|[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 58, 59, 60, 61, 62, 63]
+partlangkeys|['DSNU', 'NOUN', 'ABVR', 'WIQM', 'CLIV', 'NAME', 'ADJF', 'FLNM', 'UPPR', 'NUSR', 'TITL']
+typeskeys|['DSNU', 'UPPR', 'SPEC', 'CLIV', None, 'WIQM', 'TITL', 'NAME', 'FLNM', 'ABVR', 'NUSR']
+inwhatsents|[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62]
 minkeyssent|1.0
 maxkeyssent|19.0
-meankeyssent|4.95
+meankeyssent|4.84
 minrepeatkey|1.0
-maxrepeatkeys|35.0
-meanrepeatkey|9.89
-allcolumnskey|['lemm', 'word', 'tword', 'partlang', 'pos', 'idsent', 'sentpos', 'tkey', 'count_word_sent', 'count_word_text', 'count_key_text']
-keys-%|27.76
-Ukeys-%|8.5
-KUkeys-%|30.62
-Skeys-%|7.05
-Skeysofkeys-%|25.41
-USkeysofUkeys-%|24.47
-Nkeys-%|12.48
-Nkeysofkeys-%|44.95
-UNkeysofUkeys-%|25.53
+maxrepeatkeys|34.0
+meanrepeatkey|9.7
+allcolumnskey|['lemm', 'word', 'tword', 'partlang', 'pos', 'idsent', 'sentpos', 'tkey', 'count_word_text', 'count_word_sent', 'count_key_text']
+keys-%|27.09
+Ukeys-%|8.17
+KUkeys-%|30.17
+Skeys-%|6.89
+Skeysofkeys-%|25.42
+USkeysofUkeys-%|24.72
+Nkeys-%|12.4
+Nkeysofkeys-%|45.76
+UNkeysofUkeys-%|26.97
