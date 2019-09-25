@@ -1,0 +1,2 @@
+1. Pandas Dataframe - взялось вместе, но сокращено до аббревиатуры и совпало с Python Dictionary
+2. Python Dictionary - взялось вместе, но сокращено до аббревиатуры и совпало с Python Dictionary
