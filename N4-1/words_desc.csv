@@ -4,7 +4,7 @@ relwordscount|1489.0
 badwordscount|1174.0
 garbagewordscount|68.0
 punctuationcount|396.0
-typesrelwords|['NOUN', 'VERB', 'NUMB', 'ADJF', 'NUSR', 'PRTS', 'PRCL', 'INFN', 'ADJS', 'ABVR', 'UPPR', 'COMP', 'DSNU', 'PRTF', 'NUMR', 'TITL', 'PRED', 'GRND', 'ADVB', 'NAME', 'MATH', 'DSNL']
+typesrelwords|['NOUN', 'VERB', 'NUMB', 'ADJF', 'NUSR', 'PRTS', 'PRCL', 'INFN', 'ADJS', 'ABVR', 'UPPR', 'COMP', 'DSNU', 'PRTF', 'NUMR', 'TITL', 'PRED', 'GRND', 'ADVB', 'WLTR', 'MATH', 'DSNL']
 sentscount|156.0
 minwordssent|1.0
 maxwordssent|120.0
