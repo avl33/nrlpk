@@ -1,0 +1,26 @@
+|values
+keyscount|121.0
+Ukeyscount|38.0
+Skeyscount|4.0
+USkeyscount|3.0
+Nkeyscount|34.0
+UNkeyscount|3.0
+partlangkeys|['2GRM', 'NOUN', 'LATN', 'NAME', 'ABVR', 'WIQM']
+typeskeys|['nPNC', nan, 'WIQM', 'LATN', 'SPEC', 'NAME', 'ABVR', 'UPPR']
+inwhatsents|[1, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 24, 25, 26, 29, 30, 31, 33, 34, 35, 36, 37, 38, 39, 41, 42, 43, 47, 48, 49, 53, 54, 56, 59, 60, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 77, 80, 82, 83, 84, 87, 89, 90, 91, 93, 95, 96, 99, 102]
+minkeyssent|1.0
+maxkeyssent|5.0
+meankeyssent|1.78
+minrepeatkey|1.0
+maxrepeatkeys|13.0
+meanrepeatkey|6.07
+allcolumnskey|['lemm', 'word', 'tword', 'partlang', 'pos', 'idsent', 'sentpos', 'tkey', 'numexpress', 'rdeco', 'yotoe', 'case', 'plural', 'gender', 'animacy', 'cattimes', 'transitiv', 'sectransitiv', 'aspect', 'pers', 'catcomp', 'catcollat', 'catmood', 'catplural', 'refn', 'secrefn', 'f_sent', 'f_text']
+keys-%|9.5
+Ukeys-%|2.98
+KUkeys-%|31.4
+Skeys-%|0.31
+Skeysofkeys-%|3.31
+USkeysofUkeys-%|7.89
+Nkeys-%|2.67
+Nkeysofkeys-%|28.1
+UNkeysofUkeys-%|7.89
