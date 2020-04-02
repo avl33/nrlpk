@@ -1,0 +1,19 @@
+|values
+allwordscount|2792.0
+relwordscount|1561.0
+badwordscount|1221.0
+garbagewordscount|10.0
+punctuationcount|389.0
+typesrelwords|['NOUN', 'VERB', 'NUMB', 'ADJF', 'NUSR', 'PRTS', 'PRCL', 'INFN', 'ADJS', 'DSNU', 'COMP', 'PRED', 'PRTF', 'NUMR', 'INTJ', 'ADVB', 'WLTR', 'GRND', 'PREP', 'MATH', 'DSNL', 'NPRO']
+sentscount|157.0
+minwordssent|1.0
+maxwordssent|121.0
+meanwordssent|19.17
+minrepeatword|1.0
+maxrepeatword|40.0
+meanrepeatword|5.69
+allcolumnsstat|['lemm', 'word', 'tword', 'partlang', 'pos', 'idsent', 'sentpos', 'tkey', 'numexpress', 'rdeco', 'yotoe', 'case', 'plural', 'gender', 'animacy', 'cattimes', 'transitiv', 'sectransitiv', 'aspect', 'pers', 'catcomp', 'catcollat', 'catmood', 'catplural', 'refn', 'secrefn', 'pw', 'f_text', 'f_sent']
+garbage-%|0.36
+bad-%|43.73
+punct-%|13.93
+quality-%|99.64
